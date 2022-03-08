@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootReactMysqlApplication<spring-boot-react-mysql>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bezkoder.integrate.spring.react.SpringBootReactMysqlApplication",
+            "projectName": "spring-boot-react-mysql",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
